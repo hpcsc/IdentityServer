@@ -1,0 +1,8 @@
+[
+  {
+    "name": "openid",
+    "userClaims": [
+      "sub"
+    ]
+  }
+]

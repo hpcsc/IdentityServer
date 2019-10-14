@@ -1,0 +1,30 @@
+[
+  {
+    "allowedGrantTypes": [
+      "client_credentials"
+    ],
+    "clientId": "full-access-client",
+    "clientSecrets": [
+      {
+        "value": "K7gNU3sdo+OL0wNhqoVWhr3g6s1xYv72ol/pe/Unols="
+      }
+    ],
+    "allowedScopes": [
+      "api.full_access"
+    ]
+  },
+  {
+    "allowedGrantTypes": [
+      "client_credentials"
+    ],
+    "clientId": "read-only-client",
+    "clientSecrets": [
+      {
+        "value": "K7gNU3sdo+OL0wNhqoVWhr3g6s1xYv72ol/pe/Unols="
+      }
+    ],
+    "allowedScopes": [
+      "api.read_only"
+    ]
+  }
+]

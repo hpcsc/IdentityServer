@@ -1,0 +1,13 @@
+[
+  {
+    "name": "api",
+    "scopes": [
+      {
+        "name": "api.full_access"
+      },
+      {
+        "name": "api.read_only"
+      }
+    ]
+  }
+]
